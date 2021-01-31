@@ -28,18 +28,19 @@
 
 **Languages and Tools:**  
 
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/angular-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/typescript-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/javascript-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/nestjs-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/ngrx-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/nodejs-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/python-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/rxjs-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/rxjs-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/rxjs-logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/angular-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/git-logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/java-logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/javascript-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/mongoose-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/mongodb-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/java-logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/nestjs-logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/ngrx-logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/python-logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/rxjs-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/sequelize-logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/typescript-logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/sql-logo.png"></code>
+
+
