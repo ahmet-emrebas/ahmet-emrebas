@@ -22,7 +22,7 @@
 
 
 
-[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=ahmet-emrebas&repo=arrival-of-king&show_owner=true)]
+[![Arrival Of King](https://github-readme-stats.vercel.app/api/pin/?username=ahmet-emrebas&repo=arrival-of-king&show_owner=true)]
 
 
 
