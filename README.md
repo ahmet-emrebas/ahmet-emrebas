@@ -2,6 +2,10 @@
 
 <br/>
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=aemrebasus&layout=compact)
+
+<br/>
+
 ### Connections
 
 <a href="https://www.linkedin.com/in/ahmet-emrebas/">
@@ -12,10 +16,7 @@
 
 ### Personal Projects
 
-<p>This repository contains multiple projects as branches</p>
-
 <br/>
-
 <code>
 <a href="https://github.com/ahmet-emrebas/arrival-of-king/tree/shopping-cart">
     <img height="50" alt="Shopping Cart" title="Shopping Cart" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/shopping-cart.jpg"/>
@@ -34,10 +35,12 @@
     </a>
 </code>
 
+<br/>
+<br/>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=aemrebasus&theme=highcontrast&show_icons=true&count_private=true)
 <br/>
 <br/>
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=aemrebasus&layout=compact)
 
 **Languages and Tools:**
 
