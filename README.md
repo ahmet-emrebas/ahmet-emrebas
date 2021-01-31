@@ -17,9 +17,8 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=aemrebasus&layout=compact)
 
 ## My Repos
-<a href="https://github.com/ahmet-emrebas/arrival-of-king">
-![Arrival Of King](https://github-readme-stats.vercel.app/api/pin/?username=ahmet-emrebas&repo=arrival-of-king&show_owner=true)
-</a>
+
+![Arrival Of King](https://github-readme-stats.vercel.app/api/pin/?username=ahmet-emrebas&repo=arrival-of-king&show_owner=true) <a href="https://github.com/ahmet-emrebas/arrival-of-king"> GO</a>
 <br/>
 
 **Languages and Tools:**  
