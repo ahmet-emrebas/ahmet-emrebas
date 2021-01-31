@@ -13,10 +13,11 @@
 </a>
 
 <br/>
+<br/>
+<br/>
 
 # Personal Projects
 
-<br/>
 <code>
 <a href="https://github.com/ahmet-emrebas/arrival-of-king/tree/shopping-cart">
     <img height="100" alt="Shopping Cart" title="Shopping Cart" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/shopping-cart.jpg"/>
@@ -34,6 +35,8 @@
         <img height="100" alt="Inventory Management" title="Inventory Management" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/inventory.png"/>
     </a>
 </code>
+
+<br/>
 
 # Languages and Tools
 
@@ -54,7 +57,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/css-logo.png"></code>
 
 <br/>
-<br/>
 
 ## Backend Tools
 
@@ -65,7 +67,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/java-logo.png"></code>
 
 <br/>
-<br/>
 
 ## Database Technologies
 
@@ -74,7 +75,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/sequelize-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/sql-logo.png"></code>
 
-<br/>
 <br/>
 
 ## Others
