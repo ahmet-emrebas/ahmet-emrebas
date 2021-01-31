@@ -7,10 +7,14 @@
 <a href="https://www.linkedin.com/in/ahmet-emrebas/">
   <img align="left" alt="Shinichi Okada | Twitter" width="21px" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/linkedin-logo.png"/>
 </a>
+
 <br/>
+
 ### Personal Projects
 
 <p>This repository contains multiple projects as branches</p>
+
+<br/>
 
 <code>
 <a href="https://github.com/ahmet-emrebas/arrival-of-king/tree/shopping-cart">
