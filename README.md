@@ -4,11 +4,27 @@
   <img align="left" alt="Shinichi Okada | Twitter" width="21px" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/linkedin-logo.png"/>
 </a>
 
+### Personal Projects
 
-<br />
-<br />
+<p>This repository contains multiple projects as branches</p>
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/ahmet-emrebas/">Ahmet Emrebas</a> 
+<code>
+<a href="https://github.com/ahmet-emrebas/arrival-of-king/tree/shopping-cart">
+    <img height="50" alt="Shopping Cart" title="Shopping Cart" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/shopping-cart.jpg"/>
+</a>
+</code>
+
+<code>
+<a href="https://github.com/ahmet-emrebas/arrival-of-king/tree/project-management">
+    <img height="50" alt="Project Management" title="Project Management"  src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/management.png"/>     
+</a>
+</code>
+
+<code>
+    <a href="https://github.com/ahmet-emrebas/arrival-of-king/tree/inventory-management">     
+        <img height="50" alt="Inventory Management" title="Inventory Management" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/inventory.png"/>
+    </a>
+</code>
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=aemrebasus&theme=highcontrast&show_icons=true&count_private=true)
