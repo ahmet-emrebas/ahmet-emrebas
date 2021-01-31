@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ahmet Emrebas, Full Stack Software Developer!
+## Hi there 👋, I'm Ahmet Emrebas, Full Stack Software Developer!
 
 <br/>
 
@@ -6,7 +6,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=aemrebasus&show_icons=true&count_private=true&&card_width=500)
 
-### Connections
+# Connections
 
 <a href="https://www.linkedin.com/in/ahmet-emrebas/">
   <img align="left" alt="Shinichi Okada | Twitter" width="21px" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/linkedin-logo.png"/>
@@ -14,7 +14,7 @@
 
 <br/>
 
-### Personal Projects
+# Personal Projects
 
 <br/>
 <code>
@@ -35,9 +35,9 @@
     </a>
 </code>
 
-### Languages and Tools
+## Languages and Tools
 
-### Frontend Tools
+## Frontend Tools
 
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/angular-material-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/angular-logo.png"></code>
@@ -56,7 +56,7 @@
 <br/>
 <br/>
 
-### Backend Tools
+## Backend Tools
 
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/nodejs-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/nestjs-logo.png"></code>
@@ -67,7 +67,7 @@
 <br/>
 <br/>
 
-### Database Technologies
+## Database Technologies
 
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/mongoose-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/mongodb-logo.png"></code>
@@ -77,23 +77,23 @@
 <br/>
 <br/>
 
-### Others
+## Others
 
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/git-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/selenium-logo.png"></code>
 
 <br/>
 
-### Summary
+## Summary
 
-> I love aggressive and hasty side of myself because it helped me a lot to find the bests of the bests in my life.
+<p> I love aggressive and hasty side of myself because it helped me a lot to find the bests of the bests in my life.
+</p>
+<p> I have never tried to learn the meaning of the word, patience. However, life taught me a lot about it. Lately I believe that patience is luxury and I think, all I need is passion to reflect the best part of myself to the ones who deserve.</p>
 
-> I have never tried to learn the meaning of the word, patience. However, life taught me a lot about it. Lately I believe that patience is luxury and I think, all I need is passion to reflect the best part of myself to the ones who deserve.
+<p> Programming and designing are my greatest passions and activities that I find myself calm and happy.</p>
 
-> Programming and designing are my greatest passions and activities that I find myself calm and happy.
+<p> I started my computer science journey in high school. I developed a calculator using Visual Basic, which made me feel valuable because of the feeling that I can do something for people. It was like giving a birth without any pain. I can say that it is the greatest impact on my future career.</p>
 
-> I started my computer science journey in high school. I developed a calculator using Visual Basic, which made me feel valuable because of the feeling that I can do something for people. It was like giving a birth without any pain. I can say that it is the greatest impact on my future career.
+<p> My passion of software development and designing has grown and grown over time, which boost my learning ability to the greatest extend.</p>
 
-> My passion of software development and designing has grown and grown over time, which boost my learning ability to the greatest extend.
-
-> For the last 3 years, I have been working as a freelance web and mobile developer but I could not find much to improve myself and grow in my career. I want to be a part of a well-rounded team because I am so hungry to learn.
+<p>For the last 3 years, I have been working as a freelance web and mobile developer but I could not find much to improve myself and grow in my career. I want to be a part of a well-rounded team because I am so hungry to learn.</p>
