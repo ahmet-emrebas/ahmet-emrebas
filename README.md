@@ -17,10 +17,8 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=aemrebasus&layout=compact)
 
 ## My Repos
-<!-- 
-[![E-Commerce ]](https://github.com/ahmet-emrebas/arrival-of-king)
-[![Project Management ]](https://github.com/ahmet-emrebas/arrival-of-king)
-[![Inventory Management ]](https://github.com/ahmet-emrebas/arrival-of-king)
+
+
 
 
 
@@ -39,3 +37,9 @@
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/python-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/rxjs-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/rxjs-logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/rxjs-logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/git-logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/mongoose-logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/mongodb-logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/java-logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/sequelize-logo.png"></code>
