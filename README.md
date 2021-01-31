@@ -9,7 +9,7 @@
 # Connections
 
 <a href="https://www.linkedin.com/in/ahmet-emrebas/">
-  <img align="left" alt="Shinichi Okada | Twitter" width="21px" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/linkedin-logo.png"/>
+  <img align="left" alt="Shinichi Okada | Twitter" width="100" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/linkedin-logo.png"/>
 </a>
 
 <br/>
@@ -19,23 +19,23 @@
 <br/>
 <code>
 <a href="https://github.com/ahmet-emrebas/arrival-of-king/tree/shopping-cart">
-    <img height="50" alt="Shopping Cart" title="Shopping Cart" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/shopping-cart.jpg"/>
+    <img height="100" alt="Shopping Cart" title="Shopping Cart" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/shopping-cart.jpg"/>
 </a>
 </code>
 
 <code>
 <a href="https://github.com/ahmet-emrebas/arrival-of-king/tree/project-management">
-    <img height="50" alt="Project Management" title="Project Management"  src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/management.png"/>     
+    <img height="100" alt="Project Management" title="Project Management"  src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/management.png"/>     
 </a>
 </code>
 
 <code>
     <a href="https://github.com/ahmet-emrebas/arrival-of-king/tree/inventory-management">     
-        <img height="50" alt="Inventory Management" title="Inventory Management" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/inventory.png"/>
+        <img height="100" alt="Inventory Management" title="Inventory Management" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/inventory.png"/>
     </a>
 </code>
 
-## Languages and Tools
+# Languages and Tools
 
 ## Frontend Tools
 
