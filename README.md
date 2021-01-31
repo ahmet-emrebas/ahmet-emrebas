@@ -37,12 +37,14 @@
 
 <br/>
 <br/>
+<br/>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=aemrebasus&theme=highcontrast&show_icons=true&count_private=true)
 <br/>
 <br/>
+<br/>
 
-**Languages and Tools:**
+### Languages and Tools
 
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/nodejs-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/angular-logo.png"></code>
