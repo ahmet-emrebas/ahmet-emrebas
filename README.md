@@ -22,7 +22,7 @@
 
 
 
-[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=covid-19-stats&show_owner=true)](https://github.com/shinokada/covid-19-stats) -->
+[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=ahmet-emrebas&repo=arrival-of-king&show_owner=true)]
 
 
 
