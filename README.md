@@ -2,7 +2,7 @@
 
 <br/>
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=aemrebasus&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=aemrebasus)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=aemrebasus&show_icons=true&count_private=true)
 
