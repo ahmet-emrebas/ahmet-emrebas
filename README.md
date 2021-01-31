@@ -4,7 +4,7 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=aemrebasus&layout=compact)
 
-<br/>
+![Github stats](https://github-readme-stats.vercel.app/api?username=aemrebasus&show_icons=true&count_private=true)
 
 ### Connections
 
@@ -35,15 +35,6 @@
     </a>
 </code>
 
-<br/>
-<br/>
-<br/>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=aemrebasus&theme=highcontrast&show_icons=true&count_private=true)
-<br/>
-<br/>
-<br/>
-
 ### Languages and Tools
 
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/nodejs-logo.png"></code>
@@ -69,10 +60,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/sequelize-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/sql-logo.png"></code>
 
-
-
-
-### Summary 
+### Summary
 
 > I love aggressive and hasty side of myself because it helped me a lot to find the bests of the bests in my life.
 
