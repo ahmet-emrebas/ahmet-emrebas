@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/aemrebas/public_html/github
-    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH 
