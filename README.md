@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ahmet!
 
 <a href="https://www.linkedin.com/in/ahmet-emrebas/">
-  <img align="left" alt="Shinichi Okada | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/linkedin.png"/>
+  <img align="left" alt="Shinichi Okada | Twitter" width="21px" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/linkedin-logo.png"/>
 </a>
 
 
