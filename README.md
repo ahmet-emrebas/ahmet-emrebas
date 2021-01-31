@@ -1,9 +1,13 @@
-### Hi there 👋, I'm Ahmet!
+### Hi there 👋, I'm Ahmet Emrebas, Full Stack Software Developer!
+
+<br/>
+
+### Connections
 
 <a href="https://www.linkedin.com/in/ahmet-emrebas/">
   <img align="left" alt="Shinichi Okada | Twitter" width="21px" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/linkedin-logo.png"/>
 </a>
-
+<br/>
 ### Personal Projects
 
 <p>This repository contains multiple projects as branches</p>
@@ -26,13 +30,12 @@
     </a>
 </code>
 
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=aemrebasus&theme=highcontrast&show_icons=true&count_private=true)
 <br/>
 <br/>
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=aemrebasus&layout=compact)
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/nodejs-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/angular-logo.png"></code>
@@ -56,5 +59,3 @@
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/mongodb-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/sequelize-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/sql-logo.png"></code>
-
-
