@@ -59,6 +59,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/rxjs-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/typescript-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/flutter-logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/nativescript-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/bootstrap-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/sass-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/css-logo.png"></code>
@@ -72,16 +73,16 @@
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/loopback-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/python-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/java-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/nativescript-logo.png"></code>
 
 <br/>
 
 ## Database Technologies
 
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/mongoose-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/mongodb-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/sequelize-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/sql-logo.png"></code>
+<code><img alt="Mongoose ORM" height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/mongoose-logo.png"></code>
+<code><img alt="MongoDB" height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/mongodb-logo.png"></code>
+<code><img alt="Sequelize ORM" height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/sequelize-logo.png"></code>
+<code><img alt="Complex SQL Query" height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/sql-logo.png"></code>
+<code><img alt="Hibernate ORM" height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/hibernate-logo.png"></code>
 
 <br/>
 
