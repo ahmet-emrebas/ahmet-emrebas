@@ -44,6 +44,9 @@
 </code>
 
 <br/>
+<br/>
+<br/>
+<br/>
 
 # Languages and Tools
 
@@ -65,6 +68,9 @@
 <code><img height="40" alt="CSS" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/css-logo.png"></code>
 
 <br/>
+<br/>
+<br/>
+<br/>
 
 ## Backend Tools
 
@@ -76,6 +82,9 @@
 <code><img height="40" alt="SpringBoot" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/springboot-logo.png"></code>
 
 <br/>
+<br/>
+<br/>
+<br/>
 
 ## Database Technologies
 
@@ -85,6 +94,9 @@
 <code><img alt="Complex SQL Query" height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/sql-logo.png"></code>
 <code><img alt="Hibernate ORM" height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/hibernate-logo.png"></code>
 
+<br/>
+<br/>
+<br/>
 <br/>
 
 ## Others
