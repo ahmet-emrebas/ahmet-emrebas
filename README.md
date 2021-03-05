@@ -49,30 +49,31 @@
 
 ## Frontend Tools
 
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/angular-material-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/angular-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/javascript-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/ngrx-logo.png"></code>
+<code><img height="40" alt="Angular material" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/angular-material-logo.png"></code>
+<code><img height="40" alt="Angular " src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/angular-logo.png"></code>
+<code><img height="40" alt="Javascript" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/javascript-logo.png"></code>
+<code><img height="40" alt="NgRX State Management" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/ngrx-logo.png"></code>
 
 <br/>
 
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/rxjs-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/typescript-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/flutter-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/nativescript-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/bootstrap-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/sass-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/css-logo.png"></code>
+<code><img height="40" alt="Typescript" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/typescript-logo.png"></code>
+<code><img height="40" alt="RxJS" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/rxjs-logo.png"></code>
+<code><img height="40" alt="Flutter Mobile Development" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/flutter-logo.png"></code>
+<code><img height="40" alt="NativeScript Mobile Development" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/nativescript-logo.png"></code>
+<code><img height="40" alt="Bootstrap CSS Framework" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/bootstrap-logo.png"></code>
+<code><img height="40" alt="Sass CSS" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/sass-logo.png"></code>
+<code><img height="40" alt="CSS" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/css-logo.png"></code>
 
 <br/>
 
 ## Backend Tools
 
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/nodejs-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/nestjs-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/loopback-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/python-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/java-logo.png"></code>
+<code><img height="40" alt="NodeJS" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/nodejs-logo.png"></code>
+<code><img height="40" alt="NestJS" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/nestjs-logo.png"></code>
+<code><img height="40" alt="Loopback" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/loopback-logo.png"></code>
+<code><img height="40" alt="Python" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/python-logo.png"></code>
+<code><img height="40" alt="Java" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/java-logo.png"></code>
+<code><img height="40" alt="SpringBoot" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/springboot-logo.png"></code>
 
 <br/>
 
@@ -88,16 +89,14 @@
 
 ## Others
 
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/git-logo.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/selenium-logo.png"></code>
+<code><img height="40" alt="Git" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/git-logo.png"></code>
+<code><img height="40" alt="Selenium" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/selenium-logo.png"></code>
 
 <br/>
 
 ## Summary
 
-<p>
-Solving problems, causing problems, defining problems, and overlooking problems are of my top skills.  
-</p>
+<p>Solving problems, causing problems, defining problems, and overlooking problems are of my top skills.</p>
 
 <h3>Hello There. </h3>
 
