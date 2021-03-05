@@ -21,7 +21,7 @@
 
 <code>
 <a href="https://github.com/ahmet-emrebas/arrival-of-king/tree/auth-server">
-    <img height="100" alt="Shopping Cart" title="Shopping Cart" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/auth-logo.png"/>
+    <img height="100" alt="Authentication Server" title="Authentication Server" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/auth-logo.png"/>
 </a>
 </code>
 
