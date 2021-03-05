@@ -66,6 +66,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/loopback-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/python-logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/java-logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/nativescript-logo.png"></code>
 
 <br/>
 
@@ -87,14 +88,20 @@
 
 ## Summary
 
-<p> I love aggressive and hasty side of myself because it helped me a lot to find the bests of the bests in my life.
+<p>
+Solving problems, causing problems, defining problems, and overlooking problems are of my top skills.  
 </p>
-<p> I have never tried to learn the meaning of the word, patience. However, life taught me a lot about it. Lately I believe that patience is luxury and I think, all I need is passion to reflect the best part of myself to the ones who deserve.</p>
 
-<p> Programming and designing are my greatest passions and activities that I find myself calm and happy.</p>
+<h3>Hello There. </h3>
 
-<p> I started my computer science journey in high school. I developed a calculator using Visual Basic, which made me feel valuable because of the feeling that I can do something for people. It was like giving a birth without any pain. I can say that it is the greatest impact on my future career.</p>
+<p>I am a software developer with a great passion for solving problems utilizing Google products and Development tools.</p>
 
-<p> My passion of software development and designing has grown and grown over time, which boost my learning ability to the greatest extend.</p>
+<p>For the last three years, I’ve been learning software development, designing, and testing. I use a variety of online resources like Pluralsight, Udemy, and YouTube. I am also executing an experimental study on web and hybrid technologies. The study established a strong base of my programming ability as a web and hybrid developer.</p>
 
-<p>For the last 3 years, I have been working as a freelance web and mobile developer but I could not find much to improve myself and grow in my career. I want to be a part of a well-rounded team because I am so hungry to learn.</p>
+<p>Java is the first programming language I acquired. After learning the Java Spring Framework, I got the sweet taste of enterprise development. Implementation of the dependency injection and Inversion Of Control in Spring Boot Framework took me to the next level.</p>
+
+<p>Personal specialities include quick learning, quick typing, quick-talking, quick forgiving.</p>
+
+<p>Technical specialities include angular, the one who got me out of hell by its amazingly-awesomely-practically implemented dependency injection and Inversion of control like his big grandfather Java Spring Framework; angular material, just like a beautiful lady walking down a steep street trying to hold herself as straight as possible for the sake of retaining her gorgeousness; bootstrap, the cutest CSS framework I have feelings about; typescript, the most handsome and coolest guy in the club, he gets along with everything and everybody; JavaScript, exquisite subway sandwich nobody dares to betray; NestJS, to which I am kind of emotionally attached, also it is among the ones following the right path in the long-running marathon; NodeJS, home home, sweet home; Java & Java Spring Framework, the best mentors I have ever had; Selenium, who is the guy just making fun of people and doing his job as extraordinary as simple as clear as spring water;</p>
+
+<p>I believe we must be responsible for each other; responsive to each other; relate our problems; recover each other from any sorrow and difficult circumstances; refine our feelings to each other. After doing all, I believe we would be reborn and rediscover a better world right in front of us.</p>

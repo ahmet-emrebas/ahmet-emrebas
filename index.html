@@ -4,21 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ahmet Emrebas</title>
-    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 </head>
 <body>
     <h1 id="greeting">Not defined</h1>
 </body>
 
-<script>
-
-
-axios.get('localhost:3000').then(( data)=>{ 
-    document.getElementById('greeting').innerText = data; 
-}).catch(err=>{ 
-    console.log(err);
-})
-
-
-</script>
 </html>
