@@ -102,6 +102,7 @@
 ## Testing
 
 <code><img height="40" alt="Selenium: UAT test automation" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/selenium-logo.png"></code>
+<code><img height="40" alt="Protractor: UAT test automation" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/protractor-logo.png"></code>
 <code><img height="40" alt="Jest:JavaScript testing" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/jest-logo.png"></code>
 <code><img height="40" alt="JUnit:Java unit testing" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/junit-logo.png"></code>
 
