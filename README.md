@@ -20,6 +20,12 @@
 # Personal Projects
 
 <code>
+<a href="https://github.com/ahmet-emrebas/arrival-of-king/tree/auth-server">
+    <img height="100" alt="Shopping Cart" title="Shopping Cart" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/auth-logo.png"/>
+</a>
+</code>
+
+<code>
 <a href="https://github.com/ahmet-emrebas/arrival-of-king/tree/shopping-cart">
     <img height="100" alt="Shopping Cart" title="Shopping Cart" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/shopping-cart.jpg"/>
 </a>
