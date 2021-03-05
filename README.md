@@ -9,7 +9,7 @@
 # Connections
 
 <a href="https://www.linkedin.com/in/ahmet-emrebas/">
-  <img align="left" alt="Shinichi Okada | Twitter" width="100" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/linkedin-logo.png"/>
+  <img align="left" title="Shinichi Okada | Twitter" width="100" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/linkedin-logo.png"/>
 </a>
 
 <br/>
@@ -21,25 +21,25 @@
 
 <code>
 <a href="https://github.com/ahmet-emrebas/arrival-of-king/tree/auth-server">
-    <img height="100" alt="Authentication Server" title="Authentication Server" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/auth-logo.png"/>
+    <img height="100" title="Authentication Server" title="Authentication Server" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/auth-logo.png"/>
 </a>
 </code>
 
 <code>
 <a href="https://github.com/ahmet-emrebas/arrival-of-king/tree/shopping-cart">
-    <img height="100" alt="Shopping Cart" title="Shopping Cart" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/shopping-cart.jpg"/>
+    <img height="100" title="Shopping Cart" title="Shopping Cart" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/shopping-cart.jpg"/>
 </a>
 </code>
 
 <code>
 <a href="https://github.com/ahmet-emrebas/arrival-of-king/tree/project-management">
-    <img height="100" alt="Project Management" title="Project Management"  src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/management.png"/>     
+    <img height="100" title="Project Management" title="Project Management"  src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/management.png"/>     
 </a>
 </code>
 
 <code>
     <a href="https://github.com/ahmet-emrebas/arrival-of-king/tree/inventory-management">     
-        <img height="100" alt="Inventory Management" title="Inventory Management" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/inventory.png"/>
+        <img height="100" title="Inventory Management" title="Inventory Management" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/inventory.png"/>
     </a>
 </code>
 
@@ -52,20 +52,20 @@
 
 ## Frontend Tools
 
-<code><img height="40" alt="Angular material" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/angular-material-logo.png"></code>
-<code><img height="40" alt="Angular " src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/angular-logo.png"></code>
-<code><img height="40" alt="Javascript" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/javascript-logo.png"></code>
-<code><img height="40" alt="NgRX State Management" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/ngrx-logo.png"></code>
+<code><img height="40" title="Angular material" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/angular-material-logo.png"></code>
+<code><img height="40" title="Angular " src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/angular-logo.png"></code>
+<code><img height="40" title="Javascript" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/javascript-logo.png"></code>
+<code><img height="40" title="NgRX State Management" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/ngrx-logo.png"></code>
 
 <br/>
 
-<code><img height="40" alt="Typescript" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/typescript-logo.png"></code>
-<code><img height="40" alt="RxJS" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/rxjs-logo.png"></code>
-<code><img height="40" alt="Flutter Mobile Development" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/flutter-logo.png"></code>
-<code><img height="40" alt="NativeScript Mobile Development" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/nativescript-logo.png"></code>
-<code><img height="40" alt="Bootstrap CSS Framework" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/bootstrap-logo.png"></code>
-<code><img height="40" alt="Sass CSS" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/sass-logo.png"></code>
-<code><img height="40" alt="CSS" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/css-logo.png"></code>
+<code><img height="40" title="Typescript" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/typescript-logo.png"></code>
+<code><img height="40" title="RxJS" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/rxjs-logo.png"></code>
+<code><img height="40" title="Flutter Mobile Development" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/flutter-logo.png"></code>
+<code><img height="40" title="NativeScript Mobile Development" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/nativescript-logo.png"></code>
+<code><img height="40" title="Bootstrap CSS Framework" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/bootstrap-logo.png"></code>
+<code><img height="40" title="Sass CSS" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/sass-logo.png"></code>
+<code><img height="40" title="CSS" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/css-logo.png"></code>
 
 <br/>
 <br/>
@@ -74,12 +74,12 @@
 
 ## Backend Tools
 
-<code><img height="40" alt="NodeJS" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/nodejs-logo.png"></code>
-<code><img height="40" alt="NestJS" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/nestjs-logo.png"></code>
-<code><img height="40" alt="Loopback" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/loopback-logo.png"></code>
-<code><img height="40" alt="Python" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/python-logo.png"></code>
-<code><img height="40" alt="Java" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/java-logo.png"></code>
-<code><img height="40" alt="SpringBoot" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/springboot-logo.png"></code>
+<code><img height="40" title="NodeJS" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/nodejs-logo.png"></code>
+<code><img height="40" title="NestJS" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/nestjs-logo.png"></code>
+<code><img height="40" title="Loopback" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/loopback-logo.png"></code>
+<code><img height="40" title="Python" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/python-logo.png"></code>
+<code><img height="40" title="Java" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/java-logo.png"></code>
+<code><img height="40" title="SpringBoot" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/springboot-logo.png"></code>
 
 <br/>
 <br/>
@@ -88,11 +88,11 @@
 
 ## Database Technologies
 
-<code><img alt="Mongoose ORM" height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/mongoose-logo.png"></code>
-<code><img alt="MongoDB" height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/mongodb-logo.png"></code>
-<code><img alt="Sequelize ORM" height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/sequelize-logo.png"></code>
-<code><img alt="Complex SQL Query" height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/sql-logo.png"></code>
-<code><img alt="Hibernate ORM" height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/hibernate-logo.png"></code>
+<code><img title="Mongoose ORM" height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/mongoose-logo.png"></code>
+<code><img title="MongoDB" height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/mongodb-logo.png"></code>
+<code><img title="Sequelize ORM" height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/sequelize-logo.png"></code>
+<code><img title="Complex SQL Query" height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/sql-logo.png"></code>
+<code><img title="Hibernate ORM" height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/hibernate-logo.png"></code>
 
 <br/>
 <br/>
@@ -101,10 +101,10 @@
 
 ## Testing
 
-<code><img height="40" alt="Selenium: UAT test automation" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/selenium-logo.png"></code>
-<code><img height="40" alt="Protractor: UAT test automation" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/protractor-logo.png"></code>
-<code><img height="40" alt="Jest:JavaScript testing" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/jest-logo.png"></code>
-<code><img height="40" alt="JUnit:Java unit testing" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/junit-logo.png"></code>
+<code><img height="40" title="Selenium: UAT test automation" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/selenium-logo.png"></code>
+<code><img height="40" title="Protractor: UAT test automation" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/protractor-logo.png"></code>
+<code><img height="40" title="Jest:JavaScript testing" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/jest-logo.png"></code>
+<code><img height="40" title="JUnit:Java unit testing" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/junit-logo.png"></code>
 
 <br/>
 
