@@ -115,18 +115,4 @@
 
 ## Summary
 
-<p>Solving problems, causing problems, defining problems, and overlooking problems are of my top skills.</p>
 
-<h3>Hello There. </h3>
-
-<p>I am a software developer with a great passion for solving problems utilizing Google products and Development tools.</p>
-
-<p>For the last three years, I’ve been learning software development, designing, and testing. I use a variety of online resources like Pluralsight, Udemy, and YouTube. I am also executing an experimental study on web and hybrid technologies. The study established a strong base of my programming ability as a web and hybrid developer.</p>
-
-<p>Java is the first programming language I acquired. After learning the Java Spring Framework, I got the sweet taste of enterprise development. Implementation of the dependency injection and Inversion Of Control in Spring Boot Framework took me to the next level.</p>
-
-<p>Personal specialities include quick learning, quick typing, quick-talking, quick forgiving.</p>
-
-<p>Technical specialities include angular, the one who got me out of hell by its amazingly-awesomely-practically implemented dependency injection and Inversion of control like his big grandfather Java Spring Framework; angular material, just like a beautiful lady walking down a steep street trying to hold herself as straight as possible for the sake of retaining her gorgeousness; bootstrap, the cutest CSS framework I have feelings about; typescript, the most handsome and coolest guy in the club, he gets along with everything and everybody; JavaScript, exquisite subway sandwich nobody dares to betray; NestJS, to which I am kind of emotionally attached, also it is among the ones following the right path in the long-running marathon; NodeJS, home home, sweet home; Java & Java Spring Framework, the best mentors I have ever had; Selenium, who is the guy just making fun of people and doing his job as extraordinary as simple as clear as spring water;</p>
-
-<p>I believe we must be responsible for each other; responsive to each other; relate our problems; recover each other from any sorrow and difficult circumstances; refine our feelings to each other. After doing all, I believe we would be reborn and rediscover a better world right in front of us.</p>
