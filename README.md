@@ -6,6 +6,12 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ahmet-emrebas&show_icons=true&count_private=true)
 
+<br/>
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=aemrebasus&card_width=495)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=aemrebasus&show_icons=true&count_private=true)
+
 # Connections
 
 <a href="https://www.linkedin.com/in/ahmet-emrebas/">
