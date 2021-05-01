@@ -17,41 +17,7 @@
 <br/>
 <br/>
 
-# Personal Projects
 
-<code>
-<a href="https://github.com/ahmet-emrebas/arrival-of-king/tree/auth-server">
-    <img height="100" title="Authentication Server" title="Authentication Server" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/auth-logo.png"/>
-</a>
-</code>
-
-<code>
-<a href="https://github.com/ahmet-emrebas/arrival-of-king/tree/shopping-cart">
-    <img height="100" title="Shopping Cart" title="Shopping Cart" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/shopping-cart.jpg"/>
-</a>
-</code>
-
-<code>
-<a href="https://github.com/ahmet-emrebas/arrival-of-king/tree/project-management">
-    <img height="100" title="Project Management" title="Project Management"  src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/management.png"/>     
-</a>
-</code>
-
-<code>
-    <a href="https://github.com/ahmet-emrebas/arrival-of-king/tree/inventory-management">     
-        <img height="100" title="Inventory Management" title="Inventory Management" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/inventory.png"/>
-    </a>
-</code>
-<code>
-    <a href="https://github.com/ahmet-emrebas/refactor-template">     
-        <img height="100" title="Code Generator" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/generator-logo.png"/>
-    </a>
-</code>
-
-<br/>
-<br/>
-<br/>
-<br/>
 
 # Languages and Tools
 
@@ -91,7 +57,7 @@
 <br/>
 <br/>
 
-## Database Technologies
+## Database 
 
 <code><img title="Mongoose ORM" height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/mongoose-logo.png"></code>
 <code><img title="MongoDB" height="40" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/mongodb-logo.png"></code>
@@ -110,9 +76,4 @@
 <code><img height="40" title="Protractor: UAT test automation" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/protractor-logo.png"></code>
 <code><img height="40" title="Jest:JavaScript testing" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/jest-logo.png"></code>
 <code><img height="40" title="JUnit:Java unit testing" src="https://raw.githubusercontent.com/ahmet-emrebas/ahmet-emrebas/main/assets/junit-logo.png"></code>
-
-<br/>
-
-## Summary
-
 
